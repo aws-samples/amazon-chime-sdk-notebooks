@@ -1,4 +1,4 @@
-## Chime SDK Notebooks
+## Amazon Chime SDK Notebooks
 
 This repository is used to present notebooks and solutions that use and expand the Amazon Chime SDK. The projects are separated into their respective folders, and each will have an accompanying README with instructions.
 
