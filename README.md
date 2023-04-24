@@ -1,6 +1,10 @@
 ## Amazon Chime SDK Notebooks
 
-This repository is used to present notebooks and solutions that use and expand the Amazon Chime SDK. The projects are separated into their respective folders, and each will have an accompanying README with instructions.
+Amazon Chime SDK allows you to develop low-code solutions for real-time audio workloads. 
+
+This repository is used to present notebooks with solutions that use and expand the Amazon Chime SDK. The projects are separated into their respective folders, and each will have an accompanying README with instructions.
+
+### Supporting Links
 
 ## Security
 
