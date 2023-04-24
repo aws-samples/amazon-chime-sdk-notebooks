@@ -6,6 +6,7 @@ Several LLM options are available to users. We used Cohere in the notebook becau
 
 The Notebook allows users to test access to the LLM and engineer prompts specific to their problem. Start a Notebook Instance of size ml.t3.medium, and navigate to Jupyter Lab on your notebook instance once available. Clone this repository using the Git dropdown menu in JupyterLab.
 
+The Notebook has more instructions and explanations to follow.
 
 ## Security
 
