@@ -7,7 +7,7 @@ The Amazon Chime SDK is a set of composable APIs that enable builders to add com
 ***
 ### Prerequisits
 * Subscription to AWS Sagemaker Foundation Models
-* Subscription to [cohere-gpt-medium](https://aws.amazon.com/marketplace/pp/prodview-6dmzzso5vu5my)
+* (optional) Subscription to [cohere-gpt-medium](https://aws.amazon.com/marketplace/pp/prodview-6dmzzso5vu5my)
 * Sagemaker Notebook Instance
 
 ### How it Works
