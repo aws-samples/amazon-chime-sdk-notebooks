@@ -20,8 +20,8 @@ The Notebook allows users to test access to the LLM and engineer prompts specifi
 The Notebook has more instructions and explanations to follow.
 
 ### Additional Resources
-* [amazon-chime-sdk-call-analytics-recorder](https://github.com/aws-samples/amazon-chime-sdk-call-analytics-recorder) gives an example of using this summarizer in a 
-* [Cohere](https://cohere.com/)
+* [amazon-chime-sdk-call-analytics-recorder](https://github.com/aws-samples/amazon-chime-sdk-call-analytics-recorder) gives an example of using this summarizer in a Cloud Development Kit
+* [Cohere]([https://cohere.com/](https://aws.amazon.com/blogs/machine-learning/cohere-brings-language-ai-to-amazon-sagemaker/)) 
 
 
 ## Security
